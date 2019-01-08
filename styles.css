@@ -1,6 +1,12 @@
 .infoblock {
 
-  align: center;
   text-align: center;
+
+}
+
+#headshot {
+
+  height: 200px;
+  align-content: center;
 
 }
